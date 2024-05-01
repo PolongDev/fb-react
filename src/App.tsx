@@ -118,7 +118,7 @@ export default function App() {
           <Button onClick={handleSubmit} className="w-full py-5 text-white text-md bg-sky-400 mt-1 hover:bg-sky-300 mt-5">Submit Reaction</Button>
         </div>
         
-        <p className="text-gray-600 text-sm text-center mt-16 mx-6">Copyright © 2024, FBReactTool - Ryo Dev & libyzxy0 All Rights Reserved.</p>
+        <p className="text-gray-600 text-sm text-center mt-16 mx-6">Copyright © 2024, FBReactTool - Polong Dev & Kenneth All Rights Reserved.</p>
       </main>
       <Toaster />
     </>
